@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+.vscode/
+.project
+.buildpath
+/vendor
+/log
+*.log
